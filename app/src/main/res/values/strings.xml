@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TabDemoApp</string>
+    <string name="tab_title_text">Fragment %s</string>
+</resources>
